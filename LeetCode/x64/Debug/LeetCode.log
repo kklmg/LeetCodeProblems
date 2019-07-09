@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  LeetCode.cpp
+c:\users\liming\documents\visual studio 2015\projects\leetcode\leetcode\l202.h(51): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  LeetCode.vcxproj -> C:\Users\LiMing\Documents\Visual Studio 2015\Projects\LeetCode\x64\Debug\LeetCode.exe
+  LeetCode.vcxproj -> C:\Users\LiMing\Documents\Visual Studio 2015\Projects\LeetCode\x64\Debug\LeetCode.pdb (Full PDB)

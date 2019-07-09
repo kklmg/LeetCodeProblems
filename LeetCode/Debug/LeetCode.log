@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\users\liming\documents\visual studio 2015\projects\leetcode\debug\leetcode.exe' is denied.
+  stdafx.cpp
+  LeetCode.cpp
+LINK : fatal error LNK1104: cannot open file 'C:\Users\LiMing\Documents\Visual Studio 2015\Projects\LeetCode\Debug\LeetCode.exe'
