@@ -1,11 +1,11 @@
 #include "stdafx.h"
 
 #include"l202.h"
-
+#include"l187.h"
 
 int main()
 {
-	problem202::test();
+	problem187::test();
 
 	
 	
