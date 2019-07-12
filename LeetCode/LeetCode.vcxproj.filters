@@ -48,6 +48,12 @@
     <ClInclude Include="l1021.h">
       <Filter>problem</Filter>
     </ClInclude>
+    <ClInclude Include="l1014.h">
+      <Filter>problem</Filter>
+    </ClInclude>
+    <ClInclude Include="l729.h">
+      <Filter>problem</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
