@@ -145,9 +145,13 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="190714.h" />
+    <ClInclude Include="190715.h" />
     <ClInclude Include="Common.h" />
     <ClInclude Include="l1014.h" />
     <ClInclude Include="l1021.h" />
+    <ClInclude Include="l119.h" />
+    <ClInclude Include="l15.h" />
     <ClInclude Include="l187.h" />
     <ClInclude Include="l202.h" />
     <ClInclude Include="l470.h" />
