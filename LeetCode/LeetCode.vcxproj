@@ -147,6 +147,7 @@
   <ItemGroup>
     <ClInclude Include="190714.h" />
     <ClInclude Include="190715.h" />
+    <ClInclude Include="190716.h" />
     <ClInclude Include="Common.h" />
     <ClInclude Include="l1014.h" />
     <ClInclude Include="l1021.h" />
