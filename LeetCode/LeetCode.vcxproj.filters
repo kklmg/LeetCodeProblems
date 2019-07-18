@@ -16,6 +16,9 @@
     <Filter Include="problem">
       <UniqueIdentifier>{bfb559f5-a0f5-4bd2-83e5-97951d7d72db}</UniqueIdentifier>
     </Filter>
+    <Filter Include="problem\DynamicProgramming">
+      <UniqueIdentifier>{4daf7162-802a-4339-abcc-0fa28ed1000e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
@@ -68,6 +71,12 @@
     </ClInclude>
     <ClInclude Include="190716.h">
       <Filter>problem</Filter>
+    </ClInclude>
+    <ClInclude Include="190717.h">
+      <Filter>problem\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="190718.h">
+      <Filter>problem\DynamicProgramming</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

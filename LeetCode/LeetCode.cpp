@@ -1,10 +1,12 @@
 #include "stdafx.h"
 
-#include"190716.h"
+#include"190717.h"
 
 int main()
 {
-	problem844::test();
+
+
+	problem322::test();
 
 	
 	
