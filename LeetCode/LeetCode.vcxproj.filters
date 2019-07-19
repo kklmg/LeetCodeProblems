@@ -19,6 +19,12 @@
     <Filter Include="problem\DynamicProgramming">
       <UniqueIdentifier>{4daf7162-802a-4339-abcc-0fa28ed1000e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="problem\slidewindow">
+      <UniqueIdentifier>{6cb3ae1d-5ab9-484e-bcc7-07e582724879}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="problem\Tree">
+      <UniqueIdentifier>{f45a5d15-7377-42fb-adbe-c6ce20c073c4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
@@ -42,9 +48,6 @@
     <ClInclude Include="l938.h">
       <Filter>problem</Filter>
     </ClInclude>
-    <ClInclude Include="l62.h">
-      <Filter>problem</Filter>
-    </ClInclude>
     <ClInclude Include="l187.h">
       <Filter>problem</Filter>
     </ClInclude>
@@ -63,12 +66,6 @@
     <ClInclude Include="l119.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="190714.h">
-      <Filter>problem</Filter>
-    </ClInclude>
-    <ClInclude Include="190715.h">
-      <Filter>problem</Filter>
-    </ClInclude>
     <ClInclude Include="190716.h">
       <Filter>problem</Filter>
     </ClInclude>
@@ -77,6 +74,18 @@
     </ClInclude>
     <ClInclude Include="190718.h">
       <Filter>problem\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="190715.h">
+      <Filter>problem\slidewindow</Filter>
+    </ClInclude>
+    <ClInclude Include="190719.h">
+      <Filter>problem\slidewindow</Filter>
+    </ClInclude>
+    <ClInclude Include="l62.h">
+      <Filter>problem\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="190714.h">
+      <Filter>problem\Tree</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
