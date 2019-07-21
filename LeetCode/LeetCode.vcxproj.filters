@@ -25,6 +25,9 @@
     <Filter Include="problem\Tree">
       <UniqueIdentifier>{f45a5d15-7377-42fb-adbe-c6ce20c073c4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="problem\binarysearch">
+      <UniqueIdentifier>{3de44a99-d1db-411a-a6e1-e05d41c5bc12}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
@@ -86,6 +89,12 @@
     </ClInclude>
     <ClInclude Include="190714.h">
       <Filter>problem\Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="190720.h">
+      <Filter>problem\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="190721.h">
+      <Filter>problem</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

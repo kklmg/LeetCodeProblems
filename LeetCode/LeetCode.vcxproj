@@ -151,6 +151,8 @@
     <ClInclude Include="190717.h" />
     <ClInclude Include="190718.h" />
     <ClInclude Include="190719.h" />
+    <ClInclude Include="190720.h" />
+    <ClInclude Include="190721.h" />
     <ClInclude Include="Common.h" />
     <ClInclude Include="l1014.h" />
     <ClInclude Include="l1021.h" />
