@@ -96,6 +96,15 @@
     <ClInclude Include="190721.h">
       <Filter>problem</Filter>
     </ClInclude>
+    <ClInclude Include="190722.h">
+      <Filter>problem</Filter>
+    </ClInclude>
+    <ClInclude Include="190724.h">
+      <Filter>problem</Filter>
+    </ClInclude>
+    <ClInclude Include="190725.h">
+      <Filter>problem</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
