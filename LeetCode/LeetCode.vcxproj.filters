@@ -28,6 +28,12 @@
     <Filter Include="problem\binarysearch">
       <UniqueIdentifier>{3de44a99-d1db-411a-a6e1-e05d41c5bc12}</UniqueIdentifier>
     </Filter>
+    <Filter Include="problem\binarysearch\hard">
+      <UniqueIdentifier>{b5837433-f9e4-4744-afba-2a7f925c966a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="problem\binarysearch\easy">
+      <UniqueIdentifier>{1fa6397e-b0d4-41e1-9227-877044a1d8b3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
@@ -103,6 +109,15 @@
       <Filter>problem</Filter>
     </ClInclude>
     <ClInclude Include="190725.h">
+      <Filter>problem</Filter>
+    </ClInclude>
+    <ClInclude Include="190726.h">
+      <Filter>problem</Filter>
+    </ClInclude>
+    <ClInclude Include="190728.h">
+      <Filter>problem</Filter>
+    </ClInclude>
+    <ClInclude Include="190729.h">
       <Filter>problem</Filter>
     </ClInclude>
   </ItemGroup>

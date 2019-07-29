@@ -1,5 +1,4 @@
 ﻿  LeetCode.cpp
-c:\users\liming\documents\visual studio 2015\projects\leetcode\leetcode\190725.h(30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-c:\users\liming\documents\visual studio 2015\projects\leetcode\leetcode\190725.h(65): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\liming\documents\visual studio 2015\projects\leetcode\leetcode\190729.h(17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   LeetCode.vcxproj -> C:\Users\LiMing\Documents\Visual Studio 2015\Projects\LeetCode\x64\Debug\LeetCode.exe
   LeetCode.vcxproj -> C:\Users\LiMing\Documents\Visual Studio 2015\Projects\LeetCode\x64\Debug\LeetCode.pdb (Full PDB)
