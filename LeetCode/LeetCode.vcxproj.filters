@@ -19,20 +19,77 @@
     <Filter Include="problem\DynamicProgramming">
       <UniqueIdentifier>{4daf7162-802a-4339-abcc-0fa28ed1000e}</UniqueIdentifier>
     </Filter>
-    <Filter Include="problem\slidewindow">
-      <UniqueIdentifier>{6cb3ae1d-5ab9-484e-bcc7-07e582724879}</UniqueIdentifier>
-    </Filter>
     <Filter Include="problem\Tree">
       <UniqueIdentifier>{f45a5d15-7377-42fb-adbe-c6ce20c073c4}</UniqueIdentifier>
     </Filter>
     <Filter Include="problem\binarysearch">
       <UniqueIdentifier>{3de44a99-d1db-411a-a6e1-e05d41c5bc12}</UniqueIdentifier>
     </Filter>
-    <Filter Include="problem\binarysearch\hard">
-      <UniqueIdentifier>{b5837433-f9e4-4744-afba-2a7f925c966a}</UniqueIdentifier>
+    <Filter Include="problem\Tree\BinaryTree">
+      <UniqueIdentifier>{03245fa3-1c8f-44c6-946f-0b91134373bf}</UniqueIdentifier>
     </Filter>
-    <Filter Include="problem\binarysearch\easy">
-      <UniqueIdentifier>{1fa6397e-b0d4-41e1-9227-877044a1d8b3}</UniqueIdentifier>
+    <Filter Include="problem\Compare">
+      <UniqueIdentifier>{1c4b686f-1ec2-4a3e-90cc-f5b3f7f1fe45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="problem\HashMap">
+      <UniqueIdentifier>{102ac93d-e802-4cf7-9970-516c30bbe1a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="problem\Tree\BinaryTree\BinarySearchTree">
+      <UniqueIdentifier>{050ff0ab-1094-4913-9cca-67ab63939d20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="problem\string">
+      <UniqueIdentifier>{81a0244c-fd52-4c18-b2a7-5bf5b606c042}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="problem\BitManipulation">
+      <UniqueIdentifier>{64f4794d-665a-4180-83f6-46dc66fae489}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="problem\DivideAndConquer">
+      <UniqueIdentifier>{eff72f65-fc00-4508-a351-051ec6d950ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="problem\TwoPointers">
+      <UniqueIdentifier>{dd9ffeb1-b99b-4d49-b32b-2e86cb5ab1ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="problem\Tree\BinaryTree\BFS">
+      <UniqueIdentifier>{cd0a9765-3d68-4898-9c8b-f63c5cde60b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="problem\Tree\BinaryTree\DFS">
+      <UniqueIdentifier>{1c6f416a-ce42-46c5-a204-00153c829c48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="problem\Tree\BinaryTree\BackTracing">
+      <UniqueIdentifier>{c6c68d3c-282b-41ef-a395-13d54729743f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="problem\BackTracing">
+      <UniqueIdentifier>{5921c7cd-cbc2-46bd-8f2a-e28ea353ef91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="problem\Interger">
+      <UniqueIdentifier>{8b3a4702-a3a7-4580-a250-b15c0291c0e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="problem\Array">
+      <UniqueIdentifier>{56a08243-504d-4f55-8ae3-27449d059a7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="problem\SlideWindow">
+      <UniqueIdentifier>{6cb3ae1d-5ab9-484e-bcc7-07e582724879}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="problem\List">
+      <UniqueIdentifier>{72d520a0-2c72-4d20-a67f-696f40b9dc6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="problem\Graph">
+      <UniqueIdentifier>{e1b87726-0911-4516-be81-c8822a16c4f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="problem\Greedy">
+      <UniqueIdentifier>{aa2a903e-2626-4920-8bda-7fbed7800282}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="problem\floydcycledetection">
+      <UniqueIdentifier>{bc01a376-2c7b-41a3-8350-aa595fbeed1c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="problem\Design">
+      <UniqueIdentifier>{b6fe4eb4-7abb-4502-9b65-3058d69cae38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="problem\Sort">
+      <UniqueIdentifier>{9c06587c-eab2-44bc-9b1c-925db0118caf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UnSolved">
+      <UniqueIdentifier>{18336b26-b03e-4868-81f1-5c93f4107706}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -48,77 +105,275 @@
     <ClInclude Include="Common.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="l470.h">
-      <Filter>problem</Filter>
+    <ClInclude Include="MaxIncreaseToKeepCitySkyline.h">
+      <Filter>problem\Compare</Filter>
     </ClInclude>
-    <ClInclude Include="l202.h">
-      <Filter>problem</Filter>
+    <ClInclude Include="MajorityElement.h">
+      <Filter>problem\HashMap</Filter>
     </ClInclude>
-    <ClInclude Include="l938.h">
-      <Filter>problem</Filter>
+    <ClInclude Include="Tree\BinarySearchTreetoGreaterSumTree.h">
+      <Filter>problem\Tree\BinaryTree\BinarySearchTree</Filter>
     </ClInclude>
-    <ClInclude Include="l187.h">
-      <Filter>problem</Filter>
+    <ClInclude Include="Tree\FindModeInBinarySearchTree.h">
+      <Filter>problem\Tree\BinaryTree\BinarySearchTree</Filter>
     </ClInclude>
-    <ClInclude Include="l1021.h">
-      <Filter>problem</Filter>
+    <ClInclude Include="BackspaceStringCompare.h">
+      <Filter>problem\string</Filter>
     </ClInclude>
-    <ClInclude Include="l1014.h">
-      <Filter>problem</Filter>
+    <ClInclude Include="LongestValidParentheses.h">
+      <Filter>UnSolved</Filter>
     </ClInclude>
-    <ClInclude Include="l729.h">
-      <Filter>problem</Filter>
+    <ClInclude Include="RecoverBinarySearchTree.h">
+      <Filter>UnSolved</Filter>
     </ClInclude>
-    <ClInclude Include="l15.h">
-      <Filter>problem</Filter>
+    <ClInclude Include="HammingDistance.h">
+      <Filter>problem\BitManipulation</Filter>
     </ClInclude>
-    <ClInclude Include="l119.h">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="NumberComplement.h">
+      <Filter>problem\BitManipulation</Filter>
     </ClInclude>
-    <ClInclude Include="190716.h">
-      <Filter>problem</Filter>
+    <ClInclude Include="BinaryNumberwithAlternatingBits.h">
+      <Filter>problem\BitManipulation</Filter>
     </ClInclude>
-    <ClInclude Include="190717.h">
+    <ClInclude Include="FindtheDifference.h">
+      <Filter>problem\BitManipulation</Filter>
+    </ClInclude>
+    <ClInclude Include="PeakIndexinaMountainArray.h">
+      <Filter>problem\TwoPointers</Filter>
+    </ClInclude>
+    <ClInclude Include="IntersectionofTwoArrays.h">
+      <Filter>UnSolved</Filter>
+    </ClInclude>
+    <ClInclude Include="TwoSumII-Inputarrayissorted.h">
+      <Filter>problem\TwoPointers</Filter>
+    </ClInclude>
+    <ClInclude Include="BinarySearch.h">
+      <Filter>problem\binarysearch</Filter>
+    </ClInclude>
+    <ClInclude Include="LemonadeChange.h">
+      <Filter>problem\Greedy</Filter>
+    </ClInclude>
+    <ClInclude Include="TwoCityScheduling.h">
       <Filter>problem\DynamicProgramming</Filter>
     </ClInclude>
-    <ClInclude Include="190718.h">
+    <ClInclude Include="MaximumBinaryTree.h">
+      <Filter>UnSolved</Filter>
+    </ClInclude>
+    <ClInclude Include="PartitionLabels.h">
+      <Filter>UnSolved</Filter>
+    </ClInclude>
+    <ClInclude Include="SpiralMatrix.h">
+      <Filter>UnSolved</Filter>
+    </ClInclude>
+    <ClInclude Include="ExcelSheetColumnTitle.h">
+      <Filter>problem\string</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximizeDistancetoClosestPerson.h">
+      <Filter>UnSolved</Filter>
+    </ClInclude>
+    <ClInclude Include="DivisorGame.h">
+      <Filter>UnSolved</Filter>
+    </ClInclude>
+    <ClInclude Include="KthSmallestNumberinMultiplicationTable.h">
+      <Filter>problem\TwoPointers</Filter>
+    </ClInclude>
+    <ClInclude Include="TwoSumIV-InputisaBST.h">
+      <Filter>problem\Tree\BinaryTree\BinarySearchTree</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximumLengthofRepeatedSubarray.h">
       <Filter>problem\DynamicProgramming</Filter>
     </ClInclude>
-    <ClInclude Include="190715.h">
-      <Filter>problem\slidewindow</Filter>
+    <ClInclude Include="MinimumSizeSubarraySum.h">
+      <Filter>UnSolved</Filter>
     </ClInclude>
-    <ClInclude Include="190719.h">
-      <Filter>problem\slidewindow</Filter>
+    <ClInclude Include="SquaresofaSortedArray.h">
+      <Filter>UnSolved</Filter>
     </ClInclude>
-    <ClInclude Include="l62.h">
+    <ClInclude Include="BinaryTreeLevelOrderTraversalII.h">
+      <Filter>problem\Tree\BinaryTree\BFS</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTreeZigzagLevelOrderTraversal.h">
+      <Filter>problem\Tree\BinaryTree\BFS</Filter>
+    </ClInclude>
+    <ClInclude Include="Leaf-SimilarTrees .h">
+      <Filter>problem\Tree\BinaryTree\DFS</Filter>
+    </ClInclude>
+    <ClInclude Include="AddOneRowtoTree.h">
+      <Filter>problem\Tree\BinaryTree\BFS</Filter>
+    </ClInclude>
+    <ClInclude Include="AllNodesDistanceKinBinaryTree.h">
+      <Filter>problem\Graph</Filter>
+    </ClInclude>
+    <ClInclude Include="AverageofLevelsinBinaryTree.h">
+      <Filter>problem\Tree\BinaryTree\BFS</Filter>
+    </ClInclude>
+    <ClInclude Include="DiameterofBinaryTree.h">
+      <Filter>problem\Tree\BinaryTree\DFS</Filter>
+    </ClInclude>
+    <ClInclude Include="Tree\InvertBinaryTree.h">
+      <Filter>problem\Tree\BinaryTree\DFS</Filter>
+    </ClInclude>
+    <ClInclude Include="PrintBinaryTree.h">
+      <Filter>problem\Tree\BinaryTree\DFS</Filter>
+    </ClInclude>
+    <ClInclude Include="SumofRootToLeafBinaryNumbers.h">
+      <Filter>problem\Tree\BinaryTree\DFS</Filter>
+    </ClInclude>
+    <ClInclude Include="ConvertSortedArraytoBinarySearchTree.h">
+      <Filter>problem\Tree\BinaryTree\BinarySearchTree</Filter>
+    </ClInclude>
+    <ClInclude Include="ConvertSortedListtoBinarySearchTree.h">
+      <Filter>problem\List</Filter>
+    </ClInclude>
+    <ClInclude Include="FlattenBinaryTreetoLinkedList.h">
+      <Filter>problem\Tree\BinaryTree\DFS</Filter>
+    </ClInclude>
+    <ClInclude Include="BalancedBinaryTree.h">
+      <Filter>problem\Tree\BinaryTree\DFS</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumDepthofBinaryTree.h">
+      <Filter>problem\Tree\BinaryTree\DFS</Filter>
+    </ClInclude>
+    <ClInclude Include="PathSumII.h">
+      <Filter>problem\Tree\BinaryTree\DFS</Filter>
+    </ClInclude>
+    <ClInclude Include="SlidingWindowMedian.h">
+      <Filter>problem\SlideWindow</Filter>
+    </ClInclude>
+    <ClInclude Include="SubtreeofAnotherTree.h">
+      <Filter>problem\Tree\BinaryTree\DFS</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestSubstringWithoutRepeatingCharacters.h">
+      <Filter>problem\SlideWindow</Filter>
+    </ClInclude>
+    <ClInclude Include="Pascal%27sTriangleII.h">
+      <Filter>UnSolved</Filter>
+    </ClInclude>
+    <ClInclude Include="Triangle.h">
       <Filter>problem\DynamicProgramming</Filter>
     </ClInclude>
-    <ClInclude Include="190714.h">
-      <Filter>problem\Tree</Filter>
+    <ClInclude Include="PermutationsII.h">
+      <Filter>problem\BackTracing</Filter>
     </ClInclude>
-    <ClInclude Include="190720.h">
+    <ClInclude Include="LengthofLastWord.h">
+      <Filter>problem\string</Filter>
+    </ClInclude>
+    <ClInclude Include="MedianofTwoSortedArrays.h">
+      <Filter>problem\binarysearch</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestPalindromicSubstring.h">
       <Filter>problem\DynamicProgramming</Filter>
     </ClInclude>
-    <ClInclude Include="190721.h">
-      <Filter>problem</Filter>
+    <ClInclude Include="ReverseInteger.h">
+      <Filter>problem\Interger</Filter>
     </ClInclude>
-    <ClInclude Include="190722.h">
-      <Filter>problem</Filter>
+    <ClInclude Include="StringtoInteger%28atoi%29.h">
+      <Filter>problem\Interger</Filter>
     </ClInclude>
-    <ClInclude Include="190724.h">
-      <Filter>problem</Filter>
+    <ClInclude Include="PalindromeNumber.h">
+      <Filter>problem\Interger</Filter>
     </ClInclude>
-    <ClInclude Include="190725.h">
-      <Filter>problem</Filter>
+    <ClInclude Include="ContainerWithMostWater.h">
+      <Filter>problem\TwoPointers</Filter>
     </ClInclude>
-    <ClInclude Include="190726.h">
-      <Filter>problem</Filter>
+    <ClInclude Include="LongestCommonPrefix.h">
+      <Filter>problem\string</Filter>
     </ClInclude>
-    <ClInclude Include="190728.h">
-      <Filter>problem</Filter>
+    <ClInclude Include="3SumClosest.h">
+      <Filter>problem\TwoPointers</Filter>
     </ClInclude>
-    <ClInclude Include="190729.h">
-      <Filter>problem</Filter>
+    <ClInclude Include="DuplicateZeros.h">
+      <Filter>problem\Array</Filter>
+    </ClInclude>
+    <ClInclude Include="3Sum.h">
+      <Filter>problem\SlideWindow</Filter>
+    </ClInclude>
+    <ClInclude Include="RepeatedDNASequences.h">
+      <Filter>problem\HashMap</Filter>
+    </ClInclude>
+    <ClInclude Include="HappyNumber.h">
+      <Filter>problem\floydcycledetection</Filter>
+    </ClInclude>
+    <ClInclude Include="Searcha2DMatrixII.h">
+      <Filter>UnSolved</Filter>
+    </ClInclude>
+    <ClInclude Include="MyCalendarI.h">
+      <Filter>problem\Design</Filter>
+    </ClInclude>
+    <ClInclude Include="RangeSumofBST.h">
+      <Filter>problem\Tree\BinaryTree\BinarySearchTree</Filter>
+    </ClInclude>
+    <ClInclude Include="BestSightseeingPair.h">
+      <Filter>problem\Array</Filter>
+    </ClInclude>
+    <ClInclude Include="RemoveOutermostParentheses.h">
+      <Filter>problem\string</Filter>
+    </ClInclude>
+    <ClInclude Include="CoinChange.h">
+      <Filter>problem\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestIncreasingSubsequence.h">
+      <Filter>problem\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchInsertPosition.h">
+      <Filter>problem\TwoPointers</Filter>
+    </ClInclude>
+    <ClInclude Include="LastStoneWeight.h">
+      <Filter>problem\Sort</Filter>
+    </ClInclude>
+    <ClInclude Include="AddTwoNumbers.h">
+      <Filter>problem\List</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumPathSum.h">
+      <Filter>problem\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="UniquePathsII.h">
+      <Filter>problem\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="UniquePaths.h">
+      <Filter>problem\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="BestTimeToBuyandSellStockIII.h">
+      <Filter>problem\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="HouseRobber.h">
+      <Filter>problem\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="IntegerBreak.h">
+      <Filter>problem\Interger</Filter>
+    </ClInclude>
+    <ClInclude Include="MinCostClimbingStairs.h">
+      <Filter>problem\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="UglyNumberII.h">
+      <Filter>UnSolved</Filter>
+    </ClInclude>
+    <ClInclude Include="UniqueBinarySearchTrees.h">
+      <Filter>problem\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="SumofLeftLeaves.h">
+      <Filter>problem\Tree\BinaryTree</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTreeMaximumPathSum.h">
+      <Filter>problem\Tree\BinaryTree</Filter>
+    </ClInclude>
+    <ClInclude Include="SumRoottoLeafNumbers.h">
+      <Filter>problem\Tree\BinaryTree</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTreeRightSideView.h">
+      <Filter>problem\Tree\BinaryTree\BFS</Filter>
+    </ClInclude>
+    <ClInclude Include="KthSmallestElementinaBST.h">
+      <Filter>problem\Tree\BinaryTree\BinarySearchTree</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTreePaths.h">
+      <Filter>problem\Tree\BinaryTree</Filter>
+    </ClInclude>
+    <ClInclude Include="LowestCommonAncestorofaBinarySearchTree.h">
+      <Filter>problem\Tree\BinaryTree\BinarySearchTree</Filter>
+    </ClInclude>
+    <ClInclude Include="RotatedDigits.h">
+      <Filter>problem\Interger</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

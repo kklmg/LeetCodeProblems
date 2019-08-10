@@ -1,12 +1,10 @@
 #include "stdafx.h"
 
-#include"190729.h"
+#include"3Sum.h"
 
 int main()
 {
-
-
-	problem5::test();
+	p15::test();
 
 	
 	
