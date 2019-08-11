@@ -11,7 +11,6 @@ class Solution
 public:
 	int minSubArrayLen(int s, vector<int>& nums)
 	{
-		binary_search(nums.begin(), nums.end(), 0);
 		int size = nums.size();
 		int l = 0, r = 0;
 

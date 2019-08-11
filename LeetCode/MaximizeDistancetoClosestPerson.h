@@ -14,21 +14,20 @@ namespace p849
 		int maxDistToClosest(vector<int>& seats)
 		{
 			int size = seats.size();
+			int CurMax = 0;
+			int l = -1;
 
-			int l, r;
-
-			while (l < r)
+			for (int i = 0; i < size; ++i) 		
 			{
-			}
-
-			for (int i = 0; i < size; ++i)
-			{
-				if (i == 1)
-					++i;
-				else
+				if (seats[i]) 
 				{
+					CurMax = l < 0 ? i : max(CurMax, (i - l) / 2);
+
+					l = i;
 				}
 			}
+
+			return  max(CurMax , size - l - 1);		
 		}
 	};
 }

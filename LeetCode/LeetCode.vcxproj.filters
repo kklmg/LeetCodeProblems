@@ -31,9 +31,6 @@
     <Filter Include="problem\Compare">
       <UniqueIdentifier>{1c4b686f-1ec2-4a3e-90cc-f5b3f7f1fe45}</UniqueIdentifier>
     </Filter>
-    <Filter Include="problem\HashMap">
-      <UniqueIdentifier>{102ac93d-e802-4cf7-9970-516c30bbe1a3}</UniqueIdentifier>
-    </Filter>
     <Filter Include="problem\Tree\BinaryTree\BinarySearchTree">
       <UniqueIdentifier>{050ff0ab-1094-4913-9cca-67ab63939d20}</UniqueIdentifier>
     </Filter>
@@ -91,6 +88,9 @@
     <Filter Include="UnSolved">
       <UniqueIdentifier>{18336b26-b03e-4868-81f1-5c93f4107706}</UniqueIdentifier>
     </Filter>
+    <Filter Include="problem\Hash">
+      <UniqueIdentifier>{102ac93d-e802-4cf7-9970-516c30bbe1a3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
@@ -109,7 +109,7 @@
       <Filter>problem\Compare</Filter>
     </ClInclude>
     <ClInclude Include="MajorityElement.h">
-      <Filter>problem\HashMap</Filter>
+      <Filter>problem\Hash</Filter>
     </ClInclude>
     <ClInclude Include="Tree\BinarySearchTreetoGreaterSumTree.h">
       <Filter>problem\Tree\BinaryTree\BinarySearchTree</Filter>
@@ -119,9 +119,6 @@
     </ClInclude>
     <ClInclude Include="BackspaceStringCompare.h">
       <Filter>problem\string</Filter>
-    </ClInclude>
-    <ClInclude Include="LongestValidParentheses.h">
-      <Filter>UnSolved</Filter>
     </ClInclude>
     <ClInclude Include="RecoverBinarySearchTree.h">
       <Filter>UnSolved</Filter>
@@ -140,9 +137,6 @@
     </ClInclude>
     <ClInclude Include="PeakIndexinaMountainArray.h">
       <Filter>problem\TwoPointers</Filter>
-    </ClInclude>
-    <ClInclude Include="IntersectionofTwoArrays.h">
-      <Filter>UnSolved</Filter>
     </ClInclude>
     <ClInclude Include="TwoSumII-Inputarrayissorted.h">
       <Filter>problem\TwoPointers</Filter>
@@ -168,12 +162,6 @@
     <ClInclude Include="ExcelSheetColumnTitle.h">
       <Filter>problem\string</Filter>
     </ClInclude>
-    <ClInclude Include="MaximizeDistancetoClosestPerson.h">
-      <Filter>UnSolved</Filter>
-    </ClInclude>
-    <ClInclude Include="DivisorGame.h">
-      <Filter>UnSolved</Filter>
-    </ClInclude>
     <ClInclude Include="KthSmallestNumberinMultiplicationTable.h">
       <Filter>problem\TwoPointers</Filter>
     </ClInclude>
@@ -182,12 +170,6 @@
     </ClInclude>
     <ClInclude Include="MaximumLengthofRepeatedSubarray.h">
       <Filter>problem\DynamicProgramming</Filter>
-    </ClInclude>
-    <ClInclude Include="MinimumSizeSubarraySum.h">
-      <Filter>UnSolved</Filter>
-    </ClInclude>
-    <ClInclude Include="SquaresofaSortedArray.h">
-      <Filter>UnSolved</Filter>
     </ClInclude>
     <ClInclude Include="BinaryTreeLevelOrderTraversalII.h">
       <Filter>problem\Tree\BinaryTree\BFS</Filter>
@@ -289,7 +271,7 @@
       <Filter>problem\SlideWindow</Filter>
     </ClInclude>
     <ClInclude Include="RepeatedDNASequences.h">
-      <Filter>problem\HashMap</Filter>
+      <Filter>problem\Hash</Filter>
     </ClInclude>
     <ClInclude Include="HappyNumber.h">
       <Filter>problem\floydcycledetection</Filter>
@@ -374,6 +356,24 @@
     </ClInclude>
     <ClInclude Include="RotatedDigits.h">
       <Filter>problem\Interger</Filter>
+    </ClInclude>
+    <ClInclude Include="DivisorGame.h">
+      <Filter>problem\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="IntersectionofTwoArrays.h">
+      <Filter>problem\Hash</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestValidParentheses.h">
+      <Filter>problem\DynamicProgramming</Filter>
+    </ClInclude>
+    <ClInclude Include="MaximizeDistancetoClosestPerson.h">
+      <Filter>problem\Array</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumSizeSubarraySum.h">
+      <Filter>problem\TwoPointers</Filter>
+    </ClInclude>
+    <ClInclude Include="SquaresofaSortedArray.h">
+      <Filter>problem\TwoPointers</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

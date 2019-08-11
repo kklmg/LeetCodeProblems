@@ -1,16 +1,14 @@
 #pragma once
+
+using namespace std;
+
 //Search a 2D Matrix II
+//https://leetcode.com/explore/learn/card/recursion-ii/470/divide-and-conquer/2872/
 
 //Write an efficient algorithm that searches for a value in an m x n matrix.
 //This matrix has the following properties :
 //Integers in each row are sorted in ascending from left to right.
 //Integers in each column are sorted in ascending from top to bottom.
-
-//https://leetcode.com/explore/learn/card/recursion-ii/470/divide-and-conquer/2872/
-
-using namespace std;
-
-
 
 
 //F(0) = 0, F(1) = 1

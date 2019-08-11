@@ -13,7 +13,22 @@ namespace p349
 	public:
 		vector<int> intersection(vector<int>& nums1, vector<int>& nums2)
 		{
-			return {};
+			unordered_map<int, bool> Table;
+			vector<int> res;
+
+			for (auto i : nums1) 
+			{
+				Table[i] = true;
+			}
+			for (auto j : nums2)
+			{
+				if (Table[j])
+				{
+					res.push_back(j);
+					Table[j] = false;
+				}
+			}
+			return res;
 		}
 	};
 }

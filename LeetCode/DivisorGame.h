@@ -13,7 +13,19 @@ namespace p1025
 	public:
 		bool divisorGame(int N)
 		{
-			return true;
+			vector<bool>dp(N + 1, false);
+
+			int i, j;
+
+			for (i = 2; i <= N; i++)
+			{
+				for (j = 1; j< i; j++)
+				{
+					if (i % j == 0 && !dp[i - j])
+						dp[i] = true;
+				}
+			}
+			return dp[N];
 		}
 	};
 }
