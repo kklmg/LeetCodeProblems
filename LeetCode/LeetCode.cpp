@@ -1,10 +1,10 @@
 #include "stdafx.h"
 
-#include"3Sum.h"
+#include"LetterCombinationsofaPhoneNumber.h"
 
 int main()
 {
-	p15::test();
+	p17::test();
 
 	
 	

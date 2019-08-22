@@ -146,6 +146,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3SumClosest.h" />
+    <ClInclude Include="AddBinary.h" />
     <ClInclude Include="AddOneRowtoTree.h" />
     <ClInclude Include="AllNodesDistanceKinBinaryTree.h" />
     <ClInclude Include="AverageofLevelsinBinaryTree.h" />
@@ -157,21 +158,29 @@
     <ClInclude Include="BinaryTreePaths.h" />
     <ClInclude Include="BinaryTreeRightSideView.h" />
     <ClInclude Include="BinaryTreeZigzagLevelOrderTraversal.h" />
+    <ClInclude Include="CombinationSum.h" />
+    <ClInclude Include="CombinationSumII.h" />
     <ClInclude Include="ContainerWithMostWater.h" />
     <ClInclude Include="ConvertSortedArraytoBinarySearchTree.h" />
     <ClInclude Include="ConvertSortedListtoBinarySearchTree.h" />
     <ClInclude Include="DiameterofBinaryTree.h" />
     <ClInclude Include="DivisorGame.h" />
     <ClInclude Include="ExcelSheetColumnTitle.h" />
+    <ClInclude Include="GenerateParentheses.h" />
     <ClInclude Include="HammingDistance.h" />
     <ClInclude Include="FindtheDifference.h" />
+    <ClInclude Include="ImplementstrStr().h" />
+    <ClInclude Include="JumpGame.h" />
     <ClInclude Include="KthSmallestElementinaBST.h" />
     <ClInclude Include="KthSmallestNumberinMultiplicationTable.h" />
     <ClInclude Include="LastStoneWeight.h" />
+    <ClInclude Include="LetterCombinationsofaPhoneNumber.h" />
     <ClInclude Include="LongestPalindromicSubstring.h" />
     <ClInclude Include="LowestCommonAncestorofaBinarySearchTree.h" />
     <ClInclude Include="MaximizeDistancetoClosestPerson.h" />
     <ClInclude Include="MaximumLengthofRepeatedSubarray.h" />
+    <ClInclude Include="MergekSortedLists.h" />
+    <ClInclude Include="MergeSortedArray.h" />
     <ClInclude Include="MinimumDepthofBinaryTree.h" />
     <ClInclude Include="MinimumPathSum.h" />
     <ClInclude Include="MinimumSizeSubarraySum.h" />
@@ -179,10 +188,14 @@
     <ClInclude Include="PathSumII.h" />
     <ClInclude Include="PermutationsII.h" />
     <ClInclude Include="PrintBinaryTree.h" />
+    <ClInclude Include="RemoveNthNodeFromEndofList.h" />
     <ClInclude Include="ReverseInteger.h" />
+    <ClInclude Include="ReverseNodesink-Group.h" />
     <ClInclude Include="RotatedDigits.h" />
     <ClInclude Include="SearchInsertPosition.h" />
     <ClInclude Include="SpiralMatrix.h" />
+    <ClInclude Include="Subsets.h" />
+    <ClInclude Include="SubsetsII.h" />
     <ClInclude Include="SubtreeofAnotherTree.h" />
     <ClInclude Include="SumofLeftLeaves.h" />
     <ClInclude Include="SumofRootToLeafBinaryNumbers.h" />
@@ -225,6 +238,7 @@
     <ClInclude Include="RepeatedDNASequences.h" />
     <ClInclude Include="HappyNumber.h" />
     <ClInclude Include="Searcha2DMatrixII.h" />
+    <ClInclude Include="UglyNumber.h" />
     <ClInclude Include="UniquePaths.h" />
     <ClInclude Include="MyCalendarI.h" />
     <ClInclude Include="RangeSumofBST.h" />
@@ -238,6 +252,8 @@
     <ClInclude Include="UglyNumberII.h" />
     <ClInclude Include="UniqueBinarySearchTrees.h" />
     <ClInclude Include="UniquePathsII.h" />
+    <ClInclude Include="Valid Parentheses.h" />
+    <ClInclude Include="ZigZagConversion.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LeetCode.cpp" />

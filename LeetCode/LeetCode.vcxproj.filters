@@ -375,6 +375,54 @@
     <ClInclude Include="SquaresofaSortedArray.h">
       <Filter>problem\TwoPointers</Filter>
     </ClInclude>
+    <ClInclude Include="UglyNumber.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ZigZagConversion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LetterCombinationsofaPhoneNumber.h">
+      <Filter>problem\BackTracing</Filter>
+    </ClInclude>
+    <ClInclude Include="RemoveNthNodeFromEndofList.h">
+      <Filter>problem\List</Filter>
+    </ClInclude>
+    <ClInclude Include="Valid Parentheses.h">
+      <Filter>UnSolved</Filter>
+    </ClInclude>
+    <ClInclude Include="GenerateParentheses.h">
+      <Filter>UnSolved</Filter>
+    </ClInclude>
+    <ClInclude Include="MergekSortedLists.h">
+      <Filter>problem\List</Filter>
+    </ClInclude>
+    <ClInclude Include="ReverseNodesink-Group.h">
+      <Filter>problem\List</Filter>
+    </ClInclude>
+    <ClInclude Include="CombinationSumII.h">
+      <Filter>problem\BackTracing</Filter>
+    </ClInclude>
+    <ClInclude Include="CombinationSum.h">
+      <Filter>problem\BackTracing</Filter>
+    </ClInclude>
+    <ClInclude Include="AddBinary.h">
+      <Filter>problem\string</Filter>
+    </ClInclude>
+    <ClInclude Include="MergeSortedArray.h">
+      <Filter>problem\Array</Filter>
+    </ClInclude>
+    <ClInclude Include="ImplementstrStr().h">
+      <Filter>problem\string</Filter>
+    </ClInclude>
+    <ClInclude Include="JumpGame.h">
+      <Filter>problem\Greedy</Filter>
+    </ClInclude>
+    <ClInclude Include="Subsets.h">
+      <Filter>problem\BackTracing</Filter>
+    </ClInclude>
+    <ClInclude Include="SubsetsII.h">
+      <Filter>problem\BackTracing</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
