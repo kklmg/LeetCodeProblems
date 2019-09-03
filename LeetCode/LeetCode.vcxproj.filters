@@ -423,6 +423,36 @@
     <ClInclude Include="SubsetsII.h">
       <Filter>problem\BackTracing</Filter>
     </ClInclude>
+    <ClInclude Include="SearchinRotatedSortedArray.h">
+      <Filter>UnSolved</Filter>
+    </ClInclude>
+    <ClInclude Include="FindFirstandLastPositionofElementinSortedArray.h">
+      <Filter>UnSolved</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedListCycle.h">
+      <Filter>problem\List</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedListCycleII.h">
+      <Filter>problem\List</Filter>
+    </ClInclude>
+    <ClInclude Include="Numberof1Bits.h">
+      <Filter>problem\BitManipulation</Filter>
+    </ClInclude>
+    <ClInclude Include="ReverseBits.h">
+      <Filter>problem\BitManipulation</Filter>
+    </ClInclude>
+    <ClInclude Include="CourseSchedule.h">
+      <Filter>problem\Graph</Filter>
+    </ClInclude>
+    <ClInclude Include="KeysandRooms.h">
+      <Filter>problem\Graph</Filter>
+    </ClInclude>
+    <ClInclude Include="FindtheTownJudge.h">
+      <Filter>problem\Graph</Filter>
+    </ClInclude>
+    <ClInclude Include="N-Queens.h">
+      <Filter>problem\BackTracing</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
